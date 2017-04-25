@@ -66,3 +66,4 @@ V.1.1 - 21 May 2015
 * Add client side datatables
 
 **Copyright 2015 [harviacode.com](http://harviacode.com)**# jtoons
+# jtoons
